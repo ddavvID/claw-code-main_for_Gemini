@@ -239,6 +239,10 @@ Join the [**instructkr Discord**](https://instruct.kr/) — the best Korean lang
 
 [![Discord](https://img.shields.io/badge/Join%20Discord-instruct.kr-5865F2?logo=discord&style=for-the-badge)](https://instruct.kr/)
 
+## Contributors
+
+- [**Yeachan Heo**](https://github.com/Yeachan-Heo) — Creator of [oh-my-codex (OmX)](https://github.com/Yeachan-Heo/oh-my-codex) and collaborator on harness engineering research.
+
 ## Star History
 
 See the chart at the top of this README.
