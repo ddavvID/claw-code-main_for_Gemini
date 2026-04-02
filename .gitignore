@@ -1,0 +1,19 @@
+__pycache__/
+archive/
+.omx/
+.clawd-agents/
+# Claude Code local artifacts
+.claude/settings.local.json
+.claude/sessions/
+
+# Rust
+rust/target/
+
+# Python venv
+venv/
+
+# OS
+.DS_Store
+
+# Port sessions
+.port_sessions/
